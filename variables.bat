@@ -27,3 +27,5 @@ set ZIP_ROOT="%C:\Program Files\7-Zip%"
 set "TARGET_ZIP=C:\Users\Alex\Documents\TEMPresultqmake\TEMPbuild.zip"
 
 set "BACKUP_ZIP=D:\backup_builds\build%system.build.number%.zip"
+
+set "VARREP=D:\newrep"
