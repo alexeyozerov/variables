@@ -24,4 +24,6 @@ set "WIN_DEPLOY=D:\Qt\5.10.0\msvc2017_64\bin\windeployqt.exe"
 
 set ZIP_ROOT="%C:\Program Files\7-Zip%"
 
+set "TARGET_ZIP=C:\Users\Alex\Documents\TEMPresultqmake\TEMPbuild.zip"
+
 set "BACKUP_ZIP=D:\backup_builds\build%system.build.number%.zip"
