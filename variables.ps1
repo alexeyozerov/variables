@@ -27,3 +27,5 @@ $ZIP_ROOT="C:\Program Files\7-Zip"
 $TARGET_ZIP="C:\Users\Alex\Documents\TEMPresultqmake\TEMPbuild.zip"
 
 $VARREP="D:\newrep"
+
+$BUILD_NAME = "%GT%%teamcity.project.id%.Revision%GitShortHash%.Date%system.build.start.date%.Time%system.build.start.time%.zip"
