@@ -15,6 +15,10 @@ $TEMP_WORK_DIR="C:\Users\Alex\Documents"
 		$TEMP_RESULT_QMAKE_SUBFOLDER="C:\Users\Alex\Documents\TEMPresultqmake\release"
 		
 			$TARGET_EXE="C:\Users\Alex\Documents\TEMPresultqmake\release\test.exe"
+			
+		$TAG_VERSION="C:\Users\Alex\Documents\TEMPresultqmake\gittag"
+		
+		$UNTAG_VERSION="C:\Users\Alex\Documents\TEMPresultqmake\nontag"
 	
 $ENVIRONMENT_X64="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvars64.bat"
 
@@ -27,5 +31,3 @@ $ZIP_ROOT="C:\Program Files\7-Zip"
 $TARGET_ZIP="C:\Users\Alex\Documents\TEMPresultqmake\TEMPbuild.zip"
 
 $VARREP="D:\newrep"
-
-$BUILD_NAME = "%GT%%teamcity.project.id%.Revision%GitShortHash%.Date%system.build.start.date%.Time%system.build.start.time%.zip"
