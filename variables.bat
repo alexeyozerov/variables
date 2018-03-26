@@ -34,3 +34,6 @@ set "BACKUP_ZIP=D:\backup_builds\build%system.build.number%.zip"
 
 set "VARREP=D:\newrep"
 
+set "BACKUP_UNTAG=D:\backup_builds"
+
+set "BACKUP_TAG=D:\backup_builds\tagVerions"
